@@ -6,13 +6,10 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>Raspi Project</name>
-
-    <!--
-    <organization>
+    <!--<organization>
         <name></name>
         <url></url>
-    </organization>
-    -->
+    </organization>-->
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -25,7 +22,7 @@
         <jvmargs.debug></jvmargs.debug>
 
         <slf4j.version>1.7.32</slf4j.version>
-        <pi4j.version>2.1.0</pi4j.version>
+        <pi4j.version>2.0</pi4j.version>
     </properties>
 
     <dependencies>
